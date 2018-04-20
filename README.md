@@ -1,0 +1,2 @@
+# wc
+world count C++
